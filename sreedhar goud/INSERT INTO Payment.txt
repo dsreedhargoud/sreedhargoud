@@ -1,0 +1,6 @@
+INSERT INTO Payment
+(booking_id, amount, payment_date,
+ payment_method, payment_status)
+VALUES
+(1, 20000, CURDATE(), 'UPI', 'Paid'),
+(2, 10000, CURDATE(), 'Cash', 'Pending');

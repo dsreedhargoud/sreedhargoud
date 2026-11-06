@@ -1,0 +1,7 @@
+INSERT INTO Customer
+(customer_name, phone, email, address)
+VALUES
+('Praneeth', '9876543210',
+ 'praneeth@gmail.com', 'Kurnool'),
+('Sreedhar', '9876543211',
+ 'sreedhar@gmail.com', 'Hyderabad');

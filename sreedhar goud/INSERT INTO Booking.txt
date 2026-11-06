@@ -1,0 +1,8 @@
+INSERT INTO Booking
+(customer_id, hall_id, booking_date,
+ event_date, event_type, booking_status)
+VALUES
+(1, 1, CURDATE(), '2026-12-15',
+ 'Marriage', 'Confirmed'),
+(2, 2, CURDATE(), '2026-12-20',
+ 'Birthday', 'Pending');

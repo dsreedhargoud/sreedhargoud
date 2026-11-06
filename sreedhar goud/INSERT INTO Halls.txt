@@ -1,0 +1,7 @@
+INSERT INTO Halls
+(hall_name, location, capacity, hall_type, price)
+VALUES
+('Royal Function Hall', 'Kurnool', 500,
+ 'Marriage Hall', 50000),
+('Grand Celebration Hall', 'Hyderabad', 300,
+ 'Party Hall', 35000);
